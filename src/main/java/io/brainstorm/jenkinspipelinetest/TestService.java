@@ -11,4 +11,9 @@ public class TestService {
     public String getData(){
         return "Jenking Pipeline Test!";
     }
+
+    public Integer add(Integer a,Integer b)
+    {
+        return a+b;
+    }
 }

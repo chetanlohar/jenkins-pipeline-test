@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 public class TestService {
 
     public String getData(){
-        return "Jenking Pipeline Test Poll SCM....Test4!";
+        return "Jenking Pipeline Test Poll SCM....Test5!";
     }
 
     public Integer add(Integer a,Integer b)
